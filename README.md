@@ -19,10 +19,12 @@ Trendyol Scraper, **Playwright** ve **Tkinter** kullanarak Trendyol üzerindeki 
 
 
 - Gerekli paketleri yükle:
+
 pip install playwright pandas tk
 
 
 - Playwright browser’larını kur:
+
 playwright install
 
 ▶️ Kullanım- scraper klasöründe main.py dosyasını çalıştır:
